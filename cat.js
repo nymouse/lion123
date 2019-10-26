@@ -1,4 +1,3 @@
-
 var chalk = require('chalk');
 
 function cat(name){
