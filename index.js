@@ -21,5 +21,7 @@ tom.eat(pink);
 }
 console.log(tom);
 
+jerry.run();
+
 
 module.exports = lion;
